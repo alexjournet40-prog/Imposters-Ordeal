@@ -11,3 +11,4 @@ A Randomizer and editor software for Pokémon Brilliant Diamond and Shining Pear
 4. From here you may randomize and/or edit the game in any way you see fit. After inputting a configuration into the randomizer, click the "Randomize" button to have the game modified accordingly.
 5. Finish with the "Export and Exit" button, which will prompt the application to generate a mod based on your modifications, which includes all mods you may have added. The mod folder will be placed in the same directory as the application's executable, titled "Output".
 6. The mod will be formatted to work with yuzu. Yuzu users will be able to load the mod by moving it to their game's mod folder.
+Je ne parviens pas a lanccer le randomiseur, c'est un fichier .ico; j;ai essayé d'installer .net 5.0.0 ainsi que la derniere version, je ne peux toujours pas, comment puis-je faire s'il vous plaît? 
